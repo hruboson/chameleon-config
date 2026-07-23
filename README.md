@@ -1,6 +1,8 @@
 # Chameleon configuration
 My personal configuration for the Chameleon keyboard. Designed by [TweetyDaBird](https://github.com/TweetyDaBird/Fat-Chameleon) ([shop](https://lectronz.com/stores/tweetys-wild-thinking)).
 
+![Current setup photo](chameleon.png)
+
 ### Compiling and flashing
 
 Dependencies: [`qmk`](https://github.com/qmk/qmk_firmware)
